@@ -1,0 +1,3 @@
+COMANDOS PARA INSTALAR AS DEPENDÊNCIAS:
+  npm init -y
+  npm install express
